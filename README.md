@@ -65,5 +65,3 @@ It provides features like:
 
 ---
 
-
-git clone https://github.com/yourusername/sales-data-analyzer.git
